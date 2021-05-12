@@ -1,2 +1,2 @@
 # Kaggle-Bike-Demand-Predictions
-Dataset is taken form Kaggle.
+Dataset is taken from Kaggle.
